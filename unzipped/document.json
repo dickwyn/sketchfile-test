@@ -29,7 +29,7 @@
     "objects": [
       {
         "_class": "sharedStyle",
-        "do_objectID": "711A0F4E-19B1-44A7-93B3-00B142C97987",
+        "do_objectID": "45745c60-7b1a-11e8-9c9c-2d42b21b1a3e",
         "name": "Headline 1 Style",
         "value": {
           "_class": "style",
@@ -40,7 +40,7 @@
           },
           "endMarkerType": 0,
           "miterLimit": 10,
-          "sharedObjectID": "711A0F4E-19B1-44A7-93B3-00B142C97987",
+          "sharedObjectID": "45745c60-7b1a-11e8-9c9c-2d42b21b1a3e",
           "startMarkerType": 0,
           "textStyle": {
             "_class": "textStyle",
