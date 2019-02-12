@@ -1,5 +1,5 @@
 {
-  "name": "Sketch Export",
+  "name": "sketch-export",
   "version": "0.0.0",
   "description": "A simple workflow for testing sketch files",
   "main": "gulpfile.js",
