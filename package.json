@@ -1,0 +1,20 @@
+{
+  "name": "Sketch Export",
+  "version": "0.0.0",
+  "description": "A simple workflow for testing sketch files",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dick Wyn Yong",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-zip": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dickwyn/sketch-export"
+  },
+  "homepage": "https://github.com/dickwyn/sketch-export"
+}
